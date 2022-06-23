@@ -4,6 +4,6 @@ https://pt-br.reactjs.org/docs/create-a-new-react-app.html
 Acessar o diretório do projeto
 ### cd my-app
 
-Rodar o projeto React
+Para rodar o projeto React  
 ### npm start
 
